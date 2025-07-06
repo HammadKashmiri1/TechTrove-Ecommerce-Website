@@ -13,6 +13,7 @@ A modern, full-featured e-commerce platform specializing in tech products. Built
 
 ![image alt](https://github.com/HammadKashmiri1/TechTrove-Ecommerce-Website/blob/67f535f37adc29ae05a02fa2282e51a0bc96666a/Screenshot%202025-07-06%20074521.png)
 ![image alt](https://github.com/HammadKashmiri1/TechTrove-Ecommerce-Website/blob/b60a0d8c34b574d6facc50983e75e88e20c4d9b0/Screenshot%202025-07-06%20074626.png)
+![image alt](https://github.com/HammadKashmiri1/TechTrove-Ecommerce-Website/blob/02c26e499ea6883c0df614aeeccf3a1ceab61c01/Screenshot%202025-07-06%20074702.png)
 ## 🚀 Live Demo
 [![Demo](https://img.shields.io/badge/Live_Demo-Available-green)](https://techtrove-demo.example.com) 
 
