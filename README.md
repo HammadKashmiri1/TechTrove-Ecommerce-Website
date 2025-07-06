@@ -1,5 +1,3 @@
-# TechTrove-Ecommerce-Website
-
 # TechTrove Ecommerce Website 🛒💻
 
 A modern, full-featured e-commerce platform specializing in tech products. Built with MERN stack (MongoDB, Express.js, React, Node.js).
@@ -12,7 +10,9 @@ A modern, full-featured e-commerce platform specializing in tech products. Built
 - **Responsive Design**: Mobile-friendly interface
 - **Product Reviews**: Rating and feedback system
 #Screenshots
+
 ![image alt](https://github.com/HammadKashmiri1/TechTrove-Ecommerce-Website/blob/67f535f37adc29ae05a02fa2282e51a0bc96666a/Screenshot%202025-07-06%20074521.png)
+![image alt](https://github.com/HammadKashmiri1/TechTrove-Ecommerce-Website/blob/b60a0d8c34b574d6facc50983e75e88e20c4d9b0/Screenshot%202025-07-06%20074626.png)
 ## 🚀 Live Demo
 [![Demo](https://img.shields.io/badge/Live_Demo-Available-green)](https://techtrove-demo.example.com) 
 
